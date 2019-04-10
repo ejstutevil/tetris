@@ -1,0 +1,10 @@
+C:\Users\eriks\Documents\Visual Studio 2019\Projects\myTetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\eriks\Documents\Visual Studio 2019\Projects\myTetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\eriks\Documents\Visual Studio 2019\Projects\myTetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\eriks\Documents\Visual Studio 2019\Projects\myTetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\eriks\Documents\Visual Studio 2019\Projects\myTetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\Users\eriks\Documents\Visual Studio 2019\Projects\myTetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\eriks\Documents\Visual Studio 2019\Projects\myTetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\eriks\Documents\Visual Studio 2019\Projects\myTetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Documents\Visual Studio 2019\Projects\myTetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\eriks\Documents\Visual Studio 2019\Projects\myTetris\Tetris\obj\Debug\Tetris.pdb
